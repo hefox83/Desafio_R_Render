@@ -10,3 +10,4 @@ const Alert = ({ mensaje, tipo }) => {
 };
 
 export default Alert;
+
